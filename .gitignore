@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+
+.ipynb_checkpoints/
+
+database/*.sqbpro
+
+.env
+.env.*
+
+.DS_Store
+Thumbs.db
